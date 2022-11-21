@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c67a232ab921a8428e17a61d64fd02c, type: 3}
+  m_Name: Heart
+  m_EditorClassIdentifier: 
+  CertainBoostData:
+    ID: Heart
+    Name: Heart
+    Tier: 1
+    Cost: 3
+    DamageBonus: 0
+    HealthBonus: 2
+    TakeLessDamage: 0
+    Description: Give one pet +2 HP.
+    IsRandomTarget: 0
+    TargetAmount: 1
+    IsTemporary: 0
+    Avatar: {fileID: 21300000, guid: ec38f65977abf0e44946847629fe3fc5, type: 3}

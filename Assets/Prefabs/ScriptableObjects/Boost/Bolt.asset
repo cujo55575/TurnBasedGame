@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c67a232ab921a8428e17a61d64fd02c, type: 3}
+  m_Name: Bolt
+  m_EditorClassIdentifier: 
+  CertainBoostData:
+    ID: Bolt
+    Name: Bolt
+    Tier: 2
+    Cost: 3
+    DamageBonus: 4
+    HealthBonus: 0
+    TakeLessDamage: 0
+    Description: Give one pet +4 Attack.
+    IsRandomTarget: 0
+    TargetAmount: 1
+    IsTemporary: 0
+    Avatar: {fileID: 21300000, guid: 5ee25531ded65044fa091edf4120f414, type: 3}

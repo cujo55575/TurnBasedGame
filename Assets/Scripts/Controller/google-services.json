@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1020131159851",
+    "project_id": "spacejam2-125c0",
+    "storage_bucket": "spacejam2-125c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020131159851:android:3351ec29550ff4985b5f6e",
+        "android_client_info": {
+          "package_name": "com.HopScotchGames.SpaceJam2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020131159851-boorodtm47mvq6cgbdurn0ugdh7htaf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzuB21eB6G4XgofvBB3murPwRqel3E8Cs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020131159851-boorodtm47mvq6cgbdurn0ugdh7htaf2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
